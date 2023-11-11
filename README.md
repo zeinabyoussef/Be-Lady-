@@ -7,7 +7,7 @@ Our project, aims to launch a state of the art e-commerce website exclusively ca
 ## Project Background
 The global e-commerce landscape has witnessed significant growth, yet there exists a notable gap in platforms dedicated to women's fashion and lifestyle. Recognizing this opportunity, our project aims to fill this void by launching an innovative e-commerce website. The rising trend of online shopping, coupled with the unique needs of the female, positions this project strategically in the market.
 ## Proposed Solution
-"Be lady" will be a user-centric, visually appealing, and technologically advanced e-commerce platform. It will feature a curated selection of women's fashion, accessories, and lifestyle products, ensuring that every visitor finds products tailored to their preferences. 
+"**_Be lady_**" will be a user-centric, visually appealing, and technologically advanced e-commerce platform. It will feature a curated selection of women's fashion, accessories, and lifestyle products, ensuring that every visitor finds products tailored to their preferences. 
 ## Project Deliverables and Goals
 ### **Website Development**
 
