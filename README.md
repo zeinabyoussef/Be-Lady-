@@ -39,3 +39,18 @@ The global e-commerce landscape has witnessed significant growth, yet there exis
 
 **Deliverables**: Integration of analytics tools to track website traffic, user engagement, and sales performance, providing insights for continuous improvement.
 
+## Project Management
+**Project Manager** to oversee timelines and milestones.
+
+**Technical Team**
+* Web Developers for platform development.
+* UX/UI Designers for an aesthetically pleasing interface.
+* Data Analysts for algorithm implementation.
+
+**Creative Team**
+* Graphic Designers for visual content creation.
+* Content Creators for product descriptions and marketing materials.
+
+**Marketing Team**
+* Marketing Specialists for branding and promotional campaigns.
+
