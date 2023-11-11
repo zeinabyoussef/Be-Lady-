@@ -10,8 +10,10 @@ The global e-commerce landscape has witnessed significant growth, yet there exis
 "Be lady" will be a user-centric, visually appealing, and technologically advanced e-commerce platform. It will feature a curated selection of women's fashion, accessories, and lifestyle products, ensuring that every visitor finds products tailored to their preferences. 
 ## Project Deliverables and Goals
 **Website Development**
--**Goal**: Develop a visually appealing, responsive, and user-friendly e-commerce platform.
--**Deliverables**: A fully functional website with an intuitive interface, seamless navigation, and compatibility across devices.
+
+**Goal**: Develop a visually appealing, responsive, and user-friendly e-commerce platform.
+
+**Deliverables**: A fully functional website with an intuitive interface, seamless navigation, and compatibility across devices.
 
 **Product Curation**
 **Goal**: Curate a diverse and high-quality collection of women's fashion, accessories, and lifestyle products.
